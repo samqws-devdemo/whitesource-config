@@ -9,6 +9,11 @@
     "displayMode": "diff",
     "useMendCheckNames": true
   },
+    "scanSettingsSAST": {
+    "enableScan": "true",
+    "enableRemediation": true,
+    "scanPullRequests": true
+    },
   "issueSettings": {
     "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
